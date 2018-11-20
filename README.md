@@ -53,7 +53,7 @@ Implementations
 This is the reference implementation released under GPL, so feel free to make your own implementation in other languages. You'll want to link back to the [original project's page](https://github.com/juju2143/flufflepuff) on your project page and tell me about it so I can link you here, it will be greatly appreciated.
 
 * [Implementation in Javascript by Lunar Fire](http://newlunarfire.github.io/brainpuff/)
-* [Brainfuck/Brainpuff converter by Jared M.F.](https://gist.github.com/JaredMFProgramming/a914a5a22cb893c913ec7c0a84d602d2)
+* [Brainfuck/Brainpuff converter by Jared M.F.](https://gist.github.com/StudioMFTechnologies/a914a5a22cb893c913ec7c0a84d602d2)
 
 Links
 -----
